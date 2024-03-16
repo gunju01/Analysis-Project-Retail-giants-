@@ -1,4 +1,4 @@
-# <font color=black> <div align="center"><u style="border-bottom: 2px solid" >Retail Giant Sales & Quantity Forecasting Assignment</u>
+# <font color=black> <div align="center"><u style="border-bottom: 2px solid" > Analysis Retail Giant Sales & Quantity Forecasting Assignment</u>
 
 ## Problem Statement
 
